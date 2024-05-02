@@ -32,3 +32,5 @@ build/
 
 .history/
 .vscode/
+/.vs
+/windows/.vs

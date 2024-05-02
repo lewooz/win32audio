@@ -7,7 +7,6 @@
 #include <shlobj.h>
 #include <mmc.h>
 #include <commoncontrols.h>
-#include <atlstr.h>
 #include <vector>
 #include <cstdlib>
 using namespace std;
